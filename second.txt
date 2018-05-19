@@ -1,1 +1,1 @@
-second text [Hey there I am making a change here. Change 1 for second.txt]
+I am changing the second file as well.
